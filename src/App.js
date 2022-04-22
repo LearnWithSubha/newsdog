@@ -6,7 +6,7 @@ export default class App extends Component {
   render() {
     return (
       <div>
-        This is my first class. with Github
+        This is my first class. with Github!!
       </div>
     )
   }
