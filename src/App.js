@@ -9,10 +9,7 @@ export default class App extends Component {
       <div>
         <Navbar/>
         <News/>
-        <News/>
-        <News/>
-        <News/>
-        <News/>
+       
         
       </div>
     )
